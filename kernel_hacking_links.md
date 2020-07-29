@@ -19,6 +19,8 @@ These links assume that you're already comfortable in a *NIX environment and kno
 - https://www.kernel.org/doc/html/latest/kbuild/index.html
   - All about compiling kernels, from kconfig to Makefiles, GCC to Clang.
 - https://lore.kernel.org/lkml/
+
+#### Git
 - https://kernelnewbies.org/OutreachyRebase
 - https://www.kernel.org/doc/html/latest/maintainer/rebasing-and-merging.html
 - https://git-scm.com/book/en/v2/Git-Branching-Rebasing
@@ -46,16 +48,16 @@ These links assume that you're already comfortable in a *NIX environment and kno
   - https://blog.seibert-media.com/2018/01/04/log-book-linux-cpu-lockups/
   - http://www.inetservicescloud.com/knowledgebase/what-is-a-cpu-soft-lockup/
  - Tools
-  - https://www.kernel.org/doc/html/latest/dev-tools/gdb-kernel-debugging.html
-  - https://linux.die.net/man/1/objdump
+    - https://www.kernel.org/doc/html/latest/dev-tools/gdb-kernel-debugging.html
+    - https://linux.die.net/man/1/objdump
  - KASAN
-  - https://www.kernel.org/doc/html/latest/dev-tools/kasan.html?highlight=kasan
-  - https://lwn.net/Articles/618180/
-  - https://events.static.linuxfound.org/sites/events/files/slides/LinuxCon%20North%20America%202015%20KernelAddressSanitizer.pdf
-  - https://patchwork.kernel.org/cover/10579913/
-  - https://blog.fuzzing-project.org/23-Kernel-Address-Sanitizer-KASAN.html
-  - https://cwe.mitre.org/data/definitions/416.html
-  - https://securityintelligence.com/use-after-frees-that-pointer-may-be-pointing-to-something-bad/
+    - https://www.kernel.org/doc/html/latest/dev-tools/kasan.html?highlight=kasan
+    - https://lwn.net/Articles/618180/
+    - https://events.static.linuxfound.org/sites/events/files/slides/LinuxCon%20North%20America%202015%20KernelAddressSanitizer.pdf
+    - https://patchwork.kernel.org/cover/10579913/
+    - https://blog.fuzzing-project.org/23-Kernel-Address-Sanitizer-KASAN.html
+    - https://cwe.mitre.org/data/definitions/416.html
+    - https://securityintelligence.com/use-after-frees-that-pointer-may-be-pointing-to-something-bad/
 
 #### Module basics
 - https://static.lwn.net/images/pdf/LDD3/ch13.pdf
