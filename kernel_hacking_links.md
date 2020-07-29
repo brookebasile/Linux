@@ -78,29 +78,31 @@ These links assume that you're already comfortable in a *NIX environment and kno
 - https://www.fsl.cs.sunysb.edu/kernel-api/re257.html
 - https://elixir.bootlin.com/linux/latest/source/include/linux/uaccess.h
 
-#### debugfs
-- https://www.kernel.org/doc/html/latest/filesystems/debugfs.html#id2
+#### API
 - https://www.kernel.org/doc/html/latest/locking/mutex-design.html#when-to-use-mutexes
 - https://www.kernel.org/doc/html/v4.13/kernel-hacking/locking.html#mutex-api-reference
-- https://www.zachpfeffer.com/single-post/A-Quick-debugfs-Example
 - https://cyberglory.wordpress.com/2011/08/21/jiffies-in-linux-kernel/
+- https://www.kernel.org/doc/html/latest/core-api/kernel-api.html#c.snprintf
+- https://elixir.bootlin.com/linux/latest/source/lib/vsprintf.c
+- https://www.kernel.org/doc/htmldocs/kernel-api/API-snprintf.html
+- https://www.kernel.org/doc/htmldocs/kernel-api/API-strncpy.html
+- https://linux.die.net/man/3/strncpy
+
+#### debugfs
+- https://www.kernel.org/doc/html/latest/filesystems/debugfs.html#id2
+- https://www.zachpfeffer.com/single-post/A-Quick-debugfs-Example
 
 #### sysfs
 - https://www.kernel.org/doc/html/latest/admin-guide/sysfs-rules.html
 - https://www.kernel.org/doc/html/latest/filesystems/sysfs.html
-- https://www.kernel.org/doc/html/latest/core-api/kernel-api.html#c.snprintf
 - https://www.kernel.org/doc/html/latest/hwmon/sysfs-interface.html
 - https://elixir.bootlin.com/linux/v4.14.5/source/Documentation/kobject.txt
 - http://books.gigatux.nl/mirror/kerneldevelopment/0672327201/ch17lev1sec8.html
-- https://elixir.bootlin.com/linux/latest/source/lib/vsprintf.c
-- https://www.kernel.org/doc/htmldocs/kernel-api/API-snprintf.html
 
 #### Linked lists
 - https://www.fsl.cs.sunysb.edu/kernel-api/re252.html
-- https://www.kernel.org/doc/htmldocs/kernel-api/API-strncpy.html
 - http://books.gigatux.nl/mirror/kerneldevelopment/0672327201/ch11lev1sec4.html
 - https://elixir.bootlin.com/linux/latest/source/include/linux/list.h
-- https://linux.die.net/man/3/strncpy
 
 #### Memory management
 - https://www.tldp.org/LDP/tlk/mm/memory.html
