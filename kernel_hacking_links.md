@@ -91,7 +91,7 @@ These links assume that you're already comfortable in a *NIX environment and kno
 - https://www.kernel.org/doc/html/latest/core-api/kernel-api.html#c.snprintf
 - https://www.kernel.org/doc/html/latest/hwmon/sysfs-interface.html
 - https://elixir.bootlin.com/linux/v4.14.5/source/Documentation/kobject.txt
-- books.gigatux.nl/mirror/kerneldevelopment/0672327201/ch17lev1sec8.html
+- http://books.gigatux.nl/mirror/kerneldevelopment/0672327201/ch17lev1sec8.html
 - https://elixir.bootlin.com/linux/latest/source/lib/vsprintf.c
 - https://www.kernel.org/doc/htmldocs/kernel-api/API-snprintf.html
 
