@@ -141,11 +141,20 @@ These links assume that you're already comfortable in a *NIX environment and kno
 - https://en.wikipedia.org/wiki/Maximum_transmission_unit
 - https://lkml.org/lkml/2020/3/5/926
 
-#### USB Gadget
-- https://groups.google.com/g/syzkaller/c/wjQc3SSOTwU
-- https://www.kernel.org/doc/html/latest/usb/functionfs.html
-- https://www.collabora.com/news-and-blog/blog/2019/06/24/using-dummy-hcd/
-- https://blog.elastocloud.org/2016/06/linux-usb-gadget-application-testing.html
+#### USB
+- https://usb.org.10-1-108-210.causewaynow.com/sites/default/files/CDC_EEM10.pdf
+- Gadget
+  - https://groups.google.com/g/syzkaller/c/wjQc3SSOTwU
+  - https://www.kernel.org/doc/html/latest/usb/functionfs.html
+  - https://www.collabora.com/news-and-blog/blog/2019/06/24/using-dummy-hcd/
+  - https://blog.elastocloud.org/2016/06/linux-usb-gadget-application-testing.html
+  - https://wiki.onakasuita.org/pukiwiki/?FunctionFS
+  - https://elinux.org/images/6/66/Elc_2014_usb.pdf
+  - https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-23-Wednesday/SFO15-311-%ConfigFS%Gadgets-%An%Introduction.pdf
+  - https://events.static.linuxfound.org/sites/events/files/slides/LinuxConNA-Make-your-own-USB-gadget-Andrzej.Pietrasiewicz.pdf
+  - https://elinux.org/images/8/81/Useful_USB_Gadgets_on_Linux.pdf
+  - https://wiki.tizen.org/USB/Linux_USB_Layers/Configfs_Composite_Gadget/General_configuration
+  - https://en.wikipedia.org/wiki/Ethernet_over_USB#Protocols
 
 #### Fuzzing/testing
 - https://www.collabora.com/news-and-blog/blog/2020/04/17/using-syzkaller-to-detect-programming-bugs-in-linux/
