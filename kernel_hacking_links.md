@@ -131,6 +131,22 @@ These links assume that you're already comfortable in a *NIX environment and kno
 - https://en.wikipedia.org/wiki/X86_instruction_listings
 - https://refspecs.linuxbase.org/elf/x86_64-abi-0.98.pdf
 
+#### Net
+- https://en.wikipedia.org/wiki/Cyclic_redundancy_check
+- https://en.wikipedia.org/wiki/Ethernet_frame
+- http://lkml.iu.edu/hypermail/linux/kernel/9911.0/0202.html
+- https://stackoverflow.com/questions/24530199/how-to-find-out-sk-buff-structure-size
+- https://stackoverflow.com/questions/11169961/how-exactly-is-the-amount-of-space-allocated-to-a-to-be-transmitted-packet-skb-d
+- https://www.kernel.org/doc/htmldocs/networking/API---netdev-alloc-skb.html
+- https://en.wikipedia.org/wiki/Maximum_transmission_unit
+- https://lkml.org/lkml/2020/3/5/926
+
+#### USB Gadget
+- https://groups.google.com/g/syzkaller/c/wjQc3SSOTwU
+- https://www.kernel.org/doc/html/latest/usb/functionfs.html
+- https://www.collabora.com/news-and-blog/blog/2019/06/24/using-dummy-hcd/
+- https://blog.elastocloud.org/2016/06/linux-usb-gadget-application-testing.html
+
 #### Fuzzing/testing
 - https://www.collabora.com/news-and-blog/blog/2020/04/17/using-syzkaller-to-detect-programming-bugs-in-linux/
 - https://github.com/google/syzkaller/blob/master/docs/linux/setup.md
