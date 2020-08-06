@@ -9,8 +9,14 @@ These links assume that you're already comfortable in a *NIX environment and kno
   - https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468
  - 
  
-#### C standards
+#### C standards, asm, & compiler stuff
 - http://www.iso-9899.info/wiki/The_Standard
+- https://gcc.gnu.org/wiki/ListOfCompilerBooks
+- https://gcc.gnu.org/onlinedocs/
+- https://clang.llvm.org/docs/index.html
+- https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf
+- https://developer.arm.com/architectures/instruction-sets
+- https://riscv.org/specifications/isa-spec-pdf/
  
 #### Getting started: first patches, coding style, & LKML etiquette
 - https://kernelnewbies.org/
