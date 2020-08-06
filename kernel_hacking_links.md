@@ -9,6 +9,9 @@ These links assume that you're already comfortable in a *NIX environment and kno
   - https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468
  - 
  
+#### C standards
+- http://www.iso-9899.info/wiki/The_Standard
+ 
 #### Getting started: first patches, coding style, & LKML etiquette
 - https://kernelnewbies.org/
   - A plethora of resources, taking the time to check out what they have to offer is worth it. 
