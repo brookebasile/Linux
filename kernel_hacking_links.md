@@ -127,7 +127,12 @@ These links assume that you're already comfortable in a *NIX environment and kno
 - https://developer.ibm.com/articles/l-kernel-memory-access/
 - https://www.kernel.org/doc/html/v5.3/x86/exception-tables.html
 - https://www.halolinux.us/kernel-reference/handling-the-tlb.html
-- Sparse vs. flat memory https://lwn.net/Articles/789304/
+- Sparse vs. flat memory 
+  - https://lwn.net/Articles/789304/
+  - https://lwn.net/Articles/134804/
+  - https://forums.gentoo.org/viewtopic-p-6643251.html
+- NUMA
+  - https://www.kernel.org/doc/html/latest/vm/numa.html
 
 #### TTY
 - https://www.kernel.org/doc/html/latest/driver-api/serial/tty.html
