@@ -170,6 +170,10 @@ These links assume that you're already comfortable in a *NIX environment and kno
   - https://elinux.org/images/8/81/Useful_USB_Gadgets_on_Linux.pdf
   - https://wiki.tizen.org/USB/Linux_USB_Layers/Configfs_Composite_Gadget/General_configuration
   - https://en.wikipedia.org/wiki/Ethernet_over_USB#Protocols
+  
+#### Linked lists
+- Link listed integrity, concurrency 
+  - https://lore.kernel.org/lkml/20200324153643.15527-1-will@kernel.org/
 
 #### Fuzzing/testing
 - https://www.collabora.com/news-and-blog/blog/2020/04/17/using-syzkaller-to-detect-programming-bugs-in-linux/
