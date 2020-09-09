@@ -174,6 +174,14 @@ These links assume that you're already comfortable in a *NIX environment and kno
 #### Linked lists
 - Link listed integrity, concurrency 
   - https://lore.kernel.org/lkml/20200324153643.15527-1-will@kernel.org/
+- https://gitlab.inria.fr/lawall/liliput
+  
+#### Perf subsystem
+- https://perf.wiki.kernel.org/index.php/Main_Page
+- https://www.kernel.org/doc/html/v5.2/admin-guide/perf-security.html
+- https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2020/08/29/perf-arch
+- Intel PTrace 
+  - https://perf.wiki.kernel.org/index.php/Perf_tools_support_for_Intel%C2%AE_Processor_Trace#Introduction
 
 #### Fuzzing/testing
 - https://www.collabora.com/news-and-blog/blog/2020/04/17/using-syzkaller-to-detect-programming-bugs-in-linux/
