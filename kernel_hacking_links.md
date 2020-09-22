@@ -2,6 +2,7 @@
 A mess of links that have been helpful to me, adding them as I find them.  Hopefully this will save some people a lot of time on Google :) 
 I'll try to organize them by topic as best as I can, and eventually add a table of contents.
 These links assume that you're already comfortable in a *NIX environment and know your way around as a GNU/Linux user, i.e. shell commands & compiling your own kernels.
+Also, it should be assumed for most stuff that the first place to look is the source code.
 
 #### Books
 - My 2 holy grails:
@@ -195,3 +196,10 @@ These links assume that you're already comfortable in a *NIX environment and kno
 - https://git.kernel.org/pub/scm/linux/kernel/git/shuah/linux-arts.git/
 - https://github.com/google/syzkaller/blob/master/docs/reproducing_crashes.md
 - https://github.com/google/syzkaller/blob/master/docs/executing_syzkaller_programs.md
+
+#### Lockdep
+- https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/locking/lockdep-design.rst?h=v5.9-rc5
+- http://www.cs.albany.edu/~sdc/CSI500/Fal13/FindingLockdepReferences.html
+- https://lwn.net/Articles/536363/
+- https://lwn.net/Articles/321663/
+- https://lwn.net/Articles/185666/
