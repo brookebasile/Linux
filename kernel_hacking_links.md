@@ -203,3 +203,6 @@ Also, it should be assumed for most stuff that the first place to look is the so
 - https://lwn.net/Articles/536363/
 - https://lwn.net/Articles/321663/
 - https://lwn.net/Articles/185666/
+
+#### Misc
+- https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-/
