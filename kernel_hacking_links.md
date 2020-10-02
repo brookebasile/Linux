@@ -206,3 +206,8 @@ Also, it should be assumed for most stuff that the first place to look is the so
 
 #### Misc
 - https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-/
+
+#### Embedded linux
+- Bootloaders
+  - https://systemd.io/BOOT_LOADER_SPECIFICATION/
+  - https://gitlab.denx.de/u-boot/u-boot/blob/master/doc/README.distro
