@@ -117,6 +117,9 @@ Also, it should be assumed for most stuff that the first place to look is the so
 - https://www.fsl.cs.sunysb.edu/kernel-api/re252.html
 - http://books.gigatux.nl/mirror/kerneldevelopment/0672327201/ch11lev1sec4.html
 - https://elixir.bootlin.com/linux/latest/source/include/linux/list.h
+- Link listed integrity, concurrency 
+  - https://lore.kernel.org/lkml/20200324153643.15527-1-will@kernel.org/
+- https://gitlab.inria.fr/lawall/liliput
 
 #### Memory management
 - https://linux-mm.org/
@@ -173,11 +176,6 @@ Also, it should be assumed for most stuff that the first place to look is the so
   - https://elinux.org/images/8/81/Useful_USB_Gadgets_on_Linux.pdf
   - https://wiki.tizen.org/USB/Linux_USB_Layers/Configfs_Composite_Gadget/General_configuration
   - https://en.wikipedia.org/wiki/Ethernet_over_USB#Protocols
-  
-#### Linked lists
-- Link listed integrity, concurrency 
-  - https://lore.kernel.org/lkml/20200324153643.15527-1-will@kernel.org/
-- https://gitlab.inria.fr/lawall/liliput
   
 #### Perf subsystem
 - https://perf.wiki.kernel.org/index.php/Main_Page
