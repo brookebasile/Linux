@@ -16,7 +16,9 @@ Also, it should be assumed for most stuff that the first place to look is the so
 - https://gcc.gnu.org/onlinedocs/
 - https://clang.llvm.org/docs/index.html
 - https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf
-- https://developer.arm.com/architectures/instruction-sets
+- Arm
+  - "Arm basics" notes https://bbchannel.dev/2020/10/arm-basics/
+  - https://developer.arm.com/architectures/instruction-sets
 - https://riscv.org/specifications/isa-spec-pdf/
  
 #### Getting started: first patches, coding style, & LKML etiquette
