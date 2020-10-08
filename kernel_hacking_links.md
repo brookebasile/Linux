@@ -41,7 +41,7 @@ Also, it should be assumed for most stuff that the first place to look is the so
 - http://cscope.sourceforge.net/cscope_vim_tutorial.html
 - https://medium.com/code-dementia/how-cscope-makes-my-life-easier-6a0f13ca79e6
 - https://linuxcontainers.org/
-  - LXC/LXD has been invaluable for keeping my workspace clean & also having different toolchain environments at my disposal for building old kernels
+  - LXC/LXD has been invaluable for keeping my workspace clean & also having different toolchain environments at my disposal for building old kernels (and old AOSP versions)
 
 #### Kernels
 - linux-next
