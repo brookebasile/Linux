@@ -213,3 +213,12 @@ Also, it should be assumed for most stuff that the first place to look is the so
 - Bootloaders
   - https://systemd.io/BOOT_LOADER_SPECIFICATION/
   - https://gitlab.denx.de/u-boot/u-boot/blob/master/doc/README.distro
+- Device tree & device tree overlays
+  - https://elinux.org/Device_Tree_Usage
+  - https://elinux.org/Device_Tree_Reference
+  - https://www.kernel.org/doc/html/latest/devicetree/usage-model.html
+  - https://events.static.linuxfound.org/sites/events/files/slides/petazzoni-device-tree-dummies.pdf
+  - https://en.wikipedia.org/wiki/Device_tree
+  - https://www.kernel.org/doc/Documentation/devicetree/overlay-notes.txt
+  - https://www.96boards.org/documentation/consumer/dragonboard/dragonboard410c/guides/dt-overlays.md.html
+  - https://source.android.com/devices/architecture/dto
